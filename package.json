@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vishalrindhe/bootstrap/issues"
   },
-  "homepage": "https://github.com/vishalrindhe/bootstrap#readme"
+  "homepage": "https://github.com/vishalrindhe/bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
