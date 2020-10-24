@@ -1,0 +1,19 @@
+{
+  "name": "css_bootstrap",
+  "version": "1.0.0",
+  "description": "ass1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalrindhe/bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalrindhe/bootstrap/issues"
+  },
+  "homepage": "https://github.com/vishalrindhe/bootstrap#readme"
+}
